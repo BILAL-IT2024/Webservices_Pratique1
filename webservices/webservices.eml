@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_22" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: com.sun.xml.messaging.saaj:saaj-impl:3.0.0" scope="RUNTIME"/>
+	<lib name="Maven: com.fasterxml.woodstox:woodstox-core:6.2.8" scope="RUNTIME"/>
+	<lib name="Maven: org.codehaus.woodstox:stax2-api:4.2.1" scope="RUNTIME"/>
+	<levels>
+		<level name="Maven: com.sun.xml.ws:jaxws-rt:4.0.0" value="project"/>
+		<level name="Maven: com.sun.xml.bind:jaxb-impl:4.0.0" value="project"/>
+		<level name="Maven: com.sun.xml.bind:jaxb-core:4.0.0" value="project"/>
+		<level name="Maven: org.glassfish.ha:ha-api:3.1.13" value="project"/>
+		<level name="Maven: org.glassfish.external:management-api:3.2.3" value="project"/>
+		<level name="Maven: org.glassfish.gmbal:gmbal-api-only:4.0.3" value="project"/>
+		<level name="Maven: org.jvnet.staxex:stax-ex:2.1.0" value="project"/>
+		<level name="Maven: com.sun.xml.stream.buffer:streambuffer:2.1.0" value="project"/>
+		<level name="Maven: org.jvnet.mimepull:mimepull:1.10.0" value="project"/>
+		<level name="Maven: com.sun.xml.fastinfoset:FastInfoset:2.1.0" value="project"/>
+		<level name="Maven: jakarta.mail:jakarta.mail-api:2.1.0" value="project"/>
+		<level name="Maven: org.eclipse.angus:angus-activation:1.0.0" value="project"/>
+		<level name="Maven: org.eclipse.angus:angus-mail:1.0.0" value="project"/>
+		<level name="Maven: com.sun.xml.messaging.saaj:saaj-impl:3.0.0" value="project"/>
+		<level name="Maven: com.fasterxml.woodstox:woodstox-core:6.2.8" value="project"/>
+		<level name="Maven: org.codehaus.woodstox:stax2-api:4.2.1" value="project"/>
+		<level name="Maven: com.sun.xml.ws:jaxws-tools:4.0.0" value="project"/>
+		<level name="Maven: com.sun.xml.bind:jaxb-xjc:4.0.0" value="project"/>
+		<level name="Maven: com.sun.xml.bind:jaxb-jxc:4.0.0" value="project"/>
+		<level name="Maven: com.sun.xml.ws:jaxws-eclipselink-plugin:4.0.0" value="project"/>
+		<level name="Maven: org.eclipse.persistence:org.eclipse.persistence.moxy:4.0.0-M3" value="project"/>
+		<level name="Maven: org.eclipse.persistence:org.eclipse.persistence.asm:9.2.0" value="project"/>
+		<level name="Maven: org.eclipse.persistence:org.eclipse.persistence.core:4.0.0-M3" value="project"/>
+		<level name="Maven: com.sun.xml.ws:sdo-eclipselink-plugin:4.0.0" value="project"/>
+		<level name="Maven: org.eclipse.persistence:org.eclipse.persistence.sdo:4.0.0-M3" value="project"/>
+		<level name="Maven: jakarta.activation:jakarta.activation-api:2.1.0" value="project"/>
+		<level name="Maven: jakarta.xml.ws:jakarta.xml.ws-api:4.0.0" value="project"/>
+		<level name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0" value="project"/>
+		<level name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:3.0.0" value="project"/>
+		<level name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" value="project"/>
+	</levels>
+</component>

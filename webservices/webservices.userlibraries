@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1">
+    <archive path="C:/Users/Hajar/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.jvnet.mimepull:mimepull:1.10.0">
+    <archive path="C:/Users/Hajar/.m2/repository/org/jvnet/mimepull/mimepull/1.10.0/mimepull-1.10.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.fastinfoset:FastInfoset:2.1.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/2.1.0/FastInfoset-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.jvnet.staxex:stax-ex:2.1.0">
+    <archive path="C:/Users/Hajar/.m2/repository/org/jvnet/staxex/stax-ex/2.1.0/stax-ex-2.1.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.stream.buffer:streambuffer:2.1.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/stream/buffer/streambuffer/2.1.0/streambuffer-2.1.0.jar" />
+  </library>
+  <library name="Maven: org.glassfish.external:management-api:3.2.3">
+    <archive path="C:/Users/Hajar/.m2/repository/org/glassfish/external/management-api/3.2.3/management-api-3.2.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.gmbal:gmbal-api-only:4.0.3">
+    <archive path="C:/Users/Hajar/.m2/repository/org/glassfish/gmbal/gmbal-api-only/4.0.3/gmbal-api-only-4.0.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.ha:ha-api:3.1.13">
+    <archive path="C:/Users/Hajar/.m2/repository/org/glassfish/ha/ha-api/3.1.13/ha-api-3.1.13.jar" />
+  </library>
+  <library name="Maven: org.eclipse.angus:angus-activation:1.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/org/eclipse/angus/angus-activation/1.0.0/angus-activation-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.angus:angus-mail:1.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/org/eclipse/angus/angus-mail/1.0.0/angus-mail-1.0.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-core:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.0/jaxb-core-4.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.mail:jakarta.mail-api:2.1.0">
+    <archive path="C:/Users/Hajar/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.ws:jaxws-rt:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/ws/jaxws-rt/4.0.0/jaxws-rt-4.0.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-impl:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/bind/jaxb-impl/4.0.0/jaxb-impl-4.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:3.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/jakarta/xml/soap/jakarta.xml.soap-api/3.0.0/jakarta.xml.soap-api-3.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.activation:jakarta.activation-api:2.1.0">
+    <archive path="C:/Users/Hajar/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.ws:jakarta.xml.ws-api:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/4.0.0/jakarta.xml.ws-api-4.0.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.ws:sdo-eclipselink-plugin:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/ws/sdo-eclipselink-plugin/4.0.0/sdo-eclipselink-plugin-4.0.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.sdo:4.0.0-M3">
+    <archive path="C:/Users/Hajar/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.sdo/4.0.0-M3/org.eclipse.persistence.sdo-4.0.0-M3.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.asm:9.2.0">
+    <archive path="C:/Users/Hajar/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.2.0/org.eclipse.persistence.asm-9.2.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.core:4.0.0-M3">
+    <archive path="C:/Users/Hajar/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/4.0.0-M3/org.eclipse.persistence.core-4.0.0-M3.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.ws:jaxws-eclipselink-plugin:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/ws/jaxws-eclipselink-plugin/4.0.0/jaxws-eclipselink-plugin-4.0.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.moxy:4.0.0-M3">
+    <archive path="C:/Users/Hajar/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.0-M3/org.eclipse.persistence.moxy-4.0.0-M3.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-xjc:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/bind/jaxb-xjc/4.0.0/jaxb-xjc-4.0.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-jxc:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/bind/jaxb-jxc/4.0.0/jaxb-jxc-4.0.0.jar" />
+  </library>
+  <library name="Maven: org.codehaus.woodstox:stax2-api:4.2.1">
+    <archive path="C:/Users/Hajar/.m2/repository/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.ws:jaxws-tools:4.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/ws/jaxws-tools/4.0.0/jaxws-tools-4.0.0.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.messaging.saaj:saaj-impl:3.0.0">
+    <archive path="C:/Users/Hajar/.m2/repository/com/sun/xml/messaging/saaj/saaj-impl/3.0.0/saaj-impl-3.0.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.woodstox:woodstox-core:6.2.8">
+    <archive path="C:/Users/Hajar/.m2/repository/com/fasterxml/woodstox/woodstox-core/6.2.8/woodstox-core-6.2.8.jar" />
+  </library>
+</eclipse-userlibraries>
+
